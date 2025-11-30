@@ -1,0 +1,5 @@
+- listed dependencies:
+tensorflow, 
+tensorflow-datasets, 
+numpy, 
+matplotlib
