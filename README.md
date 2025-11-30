@@ -62,5 +62,3 @@ Always a work in progress — just like great code ✨
 ```
 
 
-Would you like me to also draft a **requirements.txt** file for you, so you can upload everything in one go?
-
